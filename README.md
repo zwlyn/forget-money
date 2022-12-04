@@ -1,0 +1,2 @@
+# forget-money
+quant strategies
